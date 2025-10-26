@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+EZEDIN;+Software+Engineer;+Full+Stack+Developer;+Welcome+to+my+Profile!;" />
 
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=ezedin&style=flat-square&color=blue" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=ezedin56&style=flat-square&color=blue" alt="Profile views"/>
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ezedin)
@@ -66,16 +66,16 @@ I'm **EZEDIN**, a passionate **Software Engineer** and **Full Stack Developer** 
 
 ## 🚀 My Projects
 
-### 🌐 [Portfolio Website](https://github.com/ezedin/portfolio)
+### 🌐 [Portfolio Website](https://github.com/ezedin56/portfolio)
 A responsive portfolio website built with HTML, CSS, and JavaScript.
 
-### 📊 [Data Analysis Project](https://github.com/ezedin/data-analysis)
+### 📊 [Data Analysis Project](https://github.com/ezedin56/data-analysis)
 Python data analysis project using Pandas and PostgreSQL.
 
-### 🎯 [Django Web App](https://github.com/ezedin/django-app)
+### 🎯 [Django Web App](https://github.com/ezedin56/django-app)
 A full-stack web application built with Django and PostgreSQL.
 
-### 💼 [E-commerce Template](https://github.com/ezedin/ecommerce-template)
+### 💼 [E-commerce Template](https://github.com/ezedin56/ecommerce-template)
 Responsive e-commerce template using Bootstrap and JavaScript.
 
 ## 🎯 What I'm Learning Next
@@ -89,7 +89,7 @@ Responsive e-commerce template using Bootstrap and JavaScript.
 
 <div align="center">
   
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ezedin&theme=react-dark)
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ezedin56&theme=react-dark)
 
 </div>
 
@@ -97,7 +97,7 @@ Responsive e-commerce template using Bootstrap and JavaScript.
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ezedin&theme=onedark)](https://github.com/ezedin)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ezedin56&theme=onedark)](https://github.com/ezedin56)
 
 </div>
 
@@ -106,7 +106,7 @@ Responsive e-commerce template using Bootstrap and JavaScript.
 - 💼 [LinkedIn](https://linkedin.com/in/ezedin)
 - 🐦 [Twitter](https://twitter.com/ezedin)
 - 🌐 [Portfolio](https://ezedin.dev)
-- 📧 [Email](mailto:ezedin@email.com)
+- 📧 [Email](mailto:ezedinaliyi38@email.com)
 
 ## 💡 Code Snippet
 
