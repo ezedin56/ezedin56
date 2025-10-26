@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+EZEDIN;+Software+Engineer;+Cybersecurity+Enthusiast;+Welcome+to+my+Profile!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+EZEDIN;+Software+Engineer;+Full+Stack+Developer;+Welcome+to+my+Profile!;" />
 
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=ezedin&style=flat-square&color=blue" alt="Profile views"/>
@@ -19,45 +19,40 @@
 
 ## 👨‍💻 About Me
 
-I'm **EZEDIN**, a passionate **Software Engineer** with specialized expertise in **Data Analysis** and **Cybersecurity**. I love building secure applications and protecting digital assets from emerging threats.
+I'm **EZEDIN**, a passionate **Software Engineer** and **Full Stack Developer** with skills in web development and data analysis. I enjoy building creative solutions and continuously learning new technologies.
 
-- 🔭 I'm currently working on **Cybersecurity Threat Detection Systems**
-- 🌱 I'm currently learning **Advanced Threat Intelligence & SOC Operations**
-- 👯 I'm looking to collaborate on **Open Source Security Tools**
-- 💬 Ask me about **Data Analysis, SOC Analysis, Threat Intelligence**
+- 🔭 I'm currently working on **Web Development Projects**
+- 🌱 I'm currently learning **Data Analysis and Backend Development**
+- 👯 I'm looking to collaborate on **Frontend and Django Projects**
+- 💬 Ask me about **HTML, CSS, JavaScript, Python, Django**
 - 📫 How to reach me: **ezedin@email.com**
-- ⚡ Fun fact: **I can analyze network traffic patterns while drinking coffee! ☕**
+- ⚡ Fun fact: **I love turning coffee into code! ☕**
 
 ## 🛠️ My Skills
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 💻 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🔧 Backend Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔍 Data Analysis
+### 📊 Data Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-2E86AB?style=for-the-badge&logo=chart-line&logoColor=white)
 
-### 🔒 Cybersecurity
-![SOC Analysis](https://img.shields.io/badge/SOC_Analysis-FF6B6B?style=for-the-badge&logo=security&logoColor=white)
-![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-4ECDC4?style=for-the-badge&logo=shield-check&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network_Security-45B7D1?style=for-the-badge&logo=network&logoColor=white)
-![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-96CEB4?style=for-the-badge&logo=magnifying-glass&logoColor=white)
-
-### ⚡ Security Tools
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-258FFA?style=for-the-badge&logo=metasploit&logoColor=white)
-
-### 🌐 Web Technologies
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🛠️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -69,39 +64,26 @@ I'm **EZEDIN**, a passionate **Software Engineer** with specialized expertise in
 
 </div>
 
-## 🎯 My Cybersecurity Focus Areas
+## 🚀 My Projects
 
-### 🔐 Data Security Analysis
-- **Data Protection Strategies**
-- **Encryption Implementation**
-- **Vulnerability Assessment**
-- **Risk Analysis & Mitigation**
+### 🌐 [Portfolio Website](https://github.com/ezedin/portfolio)
+A responsive portfolio website built with HTML, CSS, and JavaScript.
 
-### 🛡️ SOC Analyst
-- **Security Monitoring**
-- **Incident Response**
-- **SIEM Management**
-- **Threat Hunting**
+### 📊 [Data Analysis Project](https://github.com/ezedin/data-analysis)
+Python data analysis project using Pandas and PostgreSQL.
 
-### 🎯 Threat Intelligence
-- **Threat Research**
-- **IOC Analysis**
-- **Malware Analysis**
-- **Cyber Threat Landscape**
+### 🎯 [Django Web App](https://github.com/ezedin/django-app)
+A full-stack web application built with Django and PostgreSQL.
 
-## 🚀 Featured Projects
+### 💼 [E-commerce Template](https://github.com/ezedin/ecommerce-template)
+Responsive e-commerce template using Bootstrap and JavaScript.
 
-### 🔥 [Cyber Threat Dashboard](https://github.com/ezedin/cyber-threat-dashboard)
-Real-time threat intelligence dashboard with data analysis capabilities.
+## 🎯 What I'm Learning Next
 
-### 🛡️ [SOC Automation Tools](https://github.com/ezedin/soc-automation)
-Python-based automation scripts for SOC analysts.
-
-### 📊 [Security Data Analyzer](https://github.com/ezedin/security-data-analyzer)
-Data analysis tool for security logs and threat intelligence.
-
-### 🔍 [Network Traffic Analyzer](https://github.com/ezedin/network-analyzer)
-Advanced network traffic analysis with threat detection.
+- **Power BI** for data visualization
+- **Advanced Django** features
+- **React.js** for frontend development
+- **Data Visualization** techniques
 
 ## 📈 Contribution Graph
 
@@ -126,14 +108,19 @@ Advanced network traffic analysis with threat detection.
 - 🌐 [Portfolio](https://ezedin.dev)
 - 📧 [Email](mailto:ezedin@email.com)
 
-## 🔒 Cybersecurity Resources I Recommend
+## 💡 Code Snippet
 
 ```python
-# Sample threat detection snippet
-def analyze_threat_intel(ioc_data):
-    """Analyze Indicators of Compromise"""
-    threats_detected = []
-    for indicator in ioc_data:
-        if is_malicious(indicator):
-            threats_detected.append(indicator)
-    return generate_threat_report(threats_detected)
+# Simple data analysis with Pandas
+import pandas as pd
+
+def analyze_data(csv_file):
+    """Basic data analysis function"""
+    df = pd.read_csv(csv_file)
+    print(f"Dataset shape: {df.shape}")
+    print(f"Columns: {df.columns.tolist()}")
+    return df.describe()
+
+# Web development passion
+def create_awesome_web_app():
+    return "Building the web, one line at a time! 🚀"
