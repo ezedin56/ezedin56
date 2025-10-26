@@ -1,15 +1,15 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm EZEDIN;SOFTWARE ENGINEER;Welcome to my Profile!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+EZEDIN;+Software+Engineer;+Cybersecurity+Enthusiast;+Welcome+to+my+Profile!;" />
 
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=ezedin&style=flat-square&color=blue" alt="Profile views"/>
 
 <!-- Social Badges -->
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ezedin)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ezedin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ezedin.dev)
 
 </div>
 
@@ -19,69 +19,95 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **_[Your Profession]_** with expertise in **_[Your Skills]_**. I love building innovative solutions and contributing to open-source projects.
+I'm **EZEDIN**, a passionate **Software Engineer** with specialized expertise in **Data Analysis** and **Cybersecurity**. I love building secure applications and protecting digital assets from emerging threats.
 
-- 🔭 I’m currently working on **_[Current Project]_**
-- 🌱 I’m currently learning **_[Learning]_**
-- 👯 I’m looking to collaborate on **_[Collaboration Interests]_**
-- 💬 Ask me about **_[Your Expertise]_**
-- 📫 How to reach me: **_[Your Email]_**
-- ⚡ Fun fact: **_[Fun Fact]_**
+- 🔭 I'm currently working on **Cybersecurity Threat Detection Systems**
+- 🌱 I'm currently learning **Advanced Threat Intelligence & SOC Operations**
+- 👯 I'm looking to collaborate on **Open Source Security Tools**
+- 💬 Ask me about **Data Analysis, SOC Analysis, Threat Intelligence**
+- 📫 How to reach me: **ezedin@email.com**
+- ⚡ Fun fact: **I can analyze network traffic patterns while drinking coffee! ☕**
 
 ## 🛠️ My Skills
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### Frontend
+### 🔍 Data Analysis
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 🔒 Cybersecurity
+![SOC Analysis](https://img.shields.io/badge/SOC_Analysis-FF6B6B?style=for-the-badge&logo=security&logoColor=white)
+![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-4ECDC4?style=for-the-badge&logo=shield-check&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-45B7D1?style=for-the-badge&logo=network&logoColor=white)
+![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-96CEB4?style=for-the-badge&logo=magnifying-glass&logoColor=white)
+
+### ⚡ Security Tools
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-258FFA?style=for-the-badge&logo=metasploit&logoColor=white)
+
+### 🌐 Web Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ezedin&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ezedin&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezedin&layout=compact&theme=radical" />
 
 </div>
 
-## 🎯 Featured Projects
+## 🎯 My Cybersecurity Focus Areas
 
-### 🔥 [Awesome Project 1](https://github.com/yourusername/project1)
-Short description of your amazing project. Built with **[Tech Stack]**.
+### 🔐 Data Security Analysis
+- **Data Protection Strategies**
+- **Encryption Implementation**
+- **Vulnerability Assessment**
+- **Risk Analysis & Mitigation**
 
-### 🚀 [Awesome Project 2](https://github.com/yourusername/project2)
-Another fantastic project description. Features **[Key Features]**.
+### 🛡️ SOC Analyst
+- **Security Monitoring**
+- **Incident Response**
+- **SIEM Management**
+- **Threat Hunting**
 
-### 💡 [Awesome Project 3](https://github.com/yourusername/project3)
-Innovative solution for **[Problem Solved]**.
+### 🎯 Threat Intelligence
+- **Threat Research**
+- **IOC Analysis**
+- **Malware Analysis**
+- **Cyber Threat Landscape**
+
+## 🚀 Featured Projects
+
+### 🔥 [Cyber Threat Dashboard](https://github.com/ezedin/cyber-threat-dashboard)
+Real-time threat intelligence dashboard with data analysis capabilities.
+
+### 🛡️ [SOC Automation Tools](https://github.com/ezedin/soc-automation)
+Python-based automation scripts for SOC analysts.
+
+### 📊 [Security Data Analyzer](https://github.com/ezedin/security-data-analyzer)
+Data analysis tool for security logs and threat intelligence.
+
+### 🔍 [Network Traffic Analyzer](https://github.com/ezedin/network-analyzer)
+Advanced network traffic analysis with threat detection.
 
 ## 📈 Contribution Graph
 
 <div align="center">
   
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark)
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ezedin&theme=react-dark)
 
 </div>
 
@@ -89,34 +115,25 @@ Innovative solution for **[Problem Solved]**.
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/yourusername)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ezedin&theme=onedark)](https://github.com/ezedin)
 
 </div>
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 🌐 [Portfolio](https://yourportfolio.com)
-- 📧 [Email](mailto:your.email@domain.com)
+- 💼 [LinkedIn](https://linkedin.com/in/ezedin)
+- 🐦 [Twitter](https://twitter.com/ezedin)
+- 🌐 [Portfolio](https://ezedin.dev)
+- 📧 [Email](mailto:ezedin@email.com)
 
-## 💝 Support Me
+## 🔒 Cybersecurity Resources I Recommend
 
-<div align="center">
-  
-  If you like my work, consider supporting me!
-
-  [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
-  [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/yourusername)
-
-</div>
-
----
-
-<div align="center">
-  
-  ### ⚡️ **"Code is like humor. When you have to explain it, it's bad."** ⚡️
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  
-</div>
+```python
+# Sample threat detection snippet
+def analyze_threat_intel(ioc_data):
+    """Analyze Indicators of Compromise"""
+    threats_detected = []
+    for indicator in ioc_data:
+        if is_malicious(indicator):
+            threats_detected.append(indicator)
+    return generate_threat_report(threats_detected)
