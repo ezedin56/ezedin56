@@ -23,9 +23,9 @@ I'm **EZEDIN**, a passionate **Software Engineer** and **Full Stack Developer** 
 
 - 🔭 I'm currently working on **Web Development Projects**
 - 🌱 I'm currently learning **Data Analysis and Backend Development**
-- 👯 I'm looking to collaborate on **Frontend and Django Projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, Django**
-- 📫 How to reach me: **ezedin@email.com**
+- 👯 I'm looking to collaborate on **Frontend and backend Projects**
+- 💬 Ask me about **HTML, CSS, JavaScript, Node Js, React, MongoDB**
+- 📫 How to reach me: **ezedinaliyi38@email.com**
 - ⚡ Fun fact: **I love turning coffee into code! ☕**
 
 ## 🛠️ My Skills
@@ -37,11 +37,12 @@ I'm **EZEDIN**, a passionate **Software Engineer** and **Full Stack Developer** 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🔧 Backend Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🔧 Backend Development 
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ### 📊 Data Analysis
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -110,17 +111,64 @@ Responsive e-commerce template using Bootstrap and JavaScript.
 
 ## 💡 Code Snippet
 
-```python
-# Simple data analysis with Pandas
-import pandas as pd
+/*
+=====================================================
+ Node.js + Express + MongoDB Backend Starter (MERN)
+=====================================================
 
-def analyze_data(csv_file):
-    """Basic data analysis function"""
-    df = pd.read_csv(csv_file)
-    print(f"Dataset shape: {df.shape}")
-    print(f"Columns: {df.columns.tolist()}")
-    return df.describe()
+// Import required packages
+const express = require('express');   // Web framework for Node.js
+const mongoose = require('mongoose'); // MongoDB object modeling tool
 
-# Web development passion
-def create_awesome_web_app():
-    return "Building the web, one line at a time! 🚀"
+// Initialize Express app
+const app = express();
+
+// Middleware to parse JSON request bodies
+app.use(express.json());
+
+// Connect to MongoDB (local instance by default)
+mongoose.connect('mongodb://localhost:27017/mern_demo', {
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+})
+.then(() => console.log('✅ Connected to MongoDB'))
+.catch(err => console.error('❌ MongoDB connection error:', err));
+
+// Define a simple schema (structure of data)
+const ItemSchema = new mongoose.Schema({
+  name: String,
+  createdAt: { type: Date, default: Date.now }
+});
+
+// Create a model based on the schema
+const Item = mongoose.model('Item', ItemSchema);
+
+// Routes (API endpoints)
+
+// Root route
+app.get('/', (req, res) => {
+  res.send('Hello MERN Backend 👋');
+});
+
+// Create a new item (POST request)
+app.post('/items', async (req, res) => {
+  const item = new Item({ name: req.body.name });
+  await item.save(); // Save to MongoDB
+  res.json(item);    // Return the saved item
+});
+
+// Get all items (GET request)
+app.get('/items', async (req, res) => {
+  const items = await Item.find(); // Fetch all items from DB
+  res.json(items);                 // Return as JSON
+});
+
+// Start the server
+const PORT = process.env.PORT || 5000;
+app.listen(PORT, () => console.log(`🚀 Server running on port ${PORT}`));
+
+=====================================================
+ End of MERN Backend Starter
+=====================================================
+*/
+
