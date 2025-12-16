@@ -1,174 +1,257 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+EZEDIN;+Software+Engineer;+Full+Stack+Developer;+Welcome+to+my+Profile!;" />
+<!-- Dynamic Animated Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hello+World!+👋;I'm+Ezedin;Full+Stack+Developer;MERN+Stack+Expert;Open+Source+Enthusiast" alt="Typing SVG" />
+</div>
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=ezedin56&style=flat-square&color=blue" alt="Profile views"/>
+<!-- Animated Profile Views Counter -->
+<div align="center" style="margin: 15px 0;">
+  <a href="https://github.com/ezedin56?tab=repositories">
+    <img src="https://komarev.com/ghpvc/?username=ezedin56&label=Profile%20Views&style=for-the-badge&color=00CED1&labelColor=0D1117" alt="Profile views" />
+  </a>
+</div>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ezedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ezedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ezedin.dev)
+<!-- Animated Social Badges with Hover Effects -->
+<div align="center" style="margin: 20px 0;">
+  <a href="https://linkedin.com/in/ezedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/-✨-lightgrey?style=for-the-badge&logoColor=white" />
+  <a href="https://twitter.com/ezedin" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" />
+  </a>
+  <img src="https://img.shields.io/badge/-✨-lightgrey?style=for-the-badge&logoColor=white" />
+  <a href="https://ezedin.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000" alt="Portfolio" />
+  </a>
+</div>
+
+<!-- Animated Tech Stack Banner -->
+<div align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&lineCount=2&line1=react,next.js,tailwind,typescript;node.js,express,mongodb,postgresql&line2=python,django,aws,docker,git,github&theme=github_dark" alt="Tech Stack" />
+</div>
 
 </div>
+
+<br/>
+
+<!-- Animated GitHub Stats with Floating Effect -->
+## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+
+<!-- Floating Stats Cards -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; animation: float 6s ease-in-out infinite;">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=ezedin56&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CED1&icon_color=00CED1&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ezedin56&theme=tokyonight&hide_border=true&background=0D1117&stroke=00CED1&ring=00CED1&fire=00CED1&currStreakLabel=00CED1" alt="GitHub Streak" />
 </div>
 
-## 👨‍💻 About Me
+<!-- Animated Language Stats -->
+<div align="center" style="margin-top: 30px; animation: slideIn 2s ease-out;">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezedin56&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=FFFFFF&langs_count=8&exclude_repo=github-readme-stats" alt="Most Used Languages" />
+</div>
 
-I'm **EZEDIN**, a passionate **Software Engineer** and **Full Stack Developer** with skills in web development and data analysis. I enjoy building creative solutions and continuously learning new technologies.
+<!-- Animated Snake Contribution Graph -->
+<div align="center" style="margin-top: 30px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ezedin56/ezedin56/output/github-contribution-grid-snake-dark.svg" />
+    <img width="100%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ezedin56/ezedin56/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
-- 🔭 I'm currently working on **Web Development Projects**
-- 🌱 I'm currently learning **Data Analysis and Backend Development**
-- 👯 I'm looking to collaborate on **Frontend and backend Projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, Node Js, React, MongoDB**
-- 📫 How to reach me: **ezedinaliyi38@email.com**
-- ⚡ Fun fact: **I love turning coffee into code! ☕**
-
-## 🛠️ My Skills
-
-### 💻 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🔧 Backend Development 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-### 📊 Data Analysis
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-2E86AB?style=for-the-badge&logo=chart-line&logoColor=white)
-
-### 🛠️ Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ezedin&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ezedin&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezedin&layout=compact&theme=radical" />
+<!-- Animated Activity Graph -->
+<div align="center" style="margin-top: 30px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezedin56&theme=github-dark&bg_color=0D1117&color=00CED1&line=00CED1&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph" />
+</div>
 
 </div>
 
-## 🚀 My Projects
+<br/>
 
-### 🌐 [Portfolio Website](https://github.com/ezedin56/portfolio)
-A responsive portfolio website built with HTML, CSS, and JavaScript.
-
-### 📊 [Data Analysis Project](https://github.com/ezedin56/data-analysis)
-Python data analysis project using Pandas and PostgreSQL.
-
-### 🎯 [Django Web App](https://github.com/ezedin56/django-app)
-A full-stack web application built with Django and PostgreSQL.
-
-### 💼 [E-commerce Template](https://github.com/ezedin56/ecommerce-template)
-Responsive e-commerce template using Bootstrap and JavaScript.
-
-## 🎯 What I'm Learning Next
-
-- **Power BI** for data visualization
-- **Advanced Django** features
-- **React.js** for frontend development
-- **Data Visualization** techniques
-
-## 📈 Contribution Graph
+<!-- Animated Trophies -->
+## 🏆 **GitHub Trophies**
 
 <div align="center">
   
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ezedin56&theme=react-dark)
-
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=ezedin56&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&title=Stars,Commit,Followers,Repositories,PullRequest,Reviews,Issues)
+  
 </div>
 
-## 🏆 GitHub Trophies
+<br/>
+
+<!-- Animated Projects Section -->
+## 💼 **Featured Projects**
 
 <div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ezedin56&theme=onedark)](https://github.com/ezedin56)
+
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| **[🎨 Portfolio Website](https://github.com/ezedin56/portfolio)** | Modern portfolio with 3D animations | React, Three.js, Tailwind | [Demo](https://ezedin.dev) |
+| **[🛒 E-commerce Platform](https://github.com/ezedin56/ecommerce)** | Full-stack shopping solution | MERN, Redux, Stripe | [Demo](https://demo.ezedin.dev) |
+| **[📊 Data Dashboard](https://github.com/ezedin56/data-dashboard)** | Real-time analytics dashboard | Python, Flask, Chart.js | [Demo](https://data.ezedin.dev) |
+| **[✅ Task Manager](https://github.com/ezedin56/task-manager)** | Collaborative task management | Node.js, Socket.io, JWT | [Demo](https://tasks.ezedin.dev) |
 
 </div>
 
-## 📫 Let's Connect!
+<br/>
 
-- 💼 [LinkedIn](https://linkedin.com/in/ezedin)
-- 🐦 [Twitter](https://twitter.com/ezedin)
-- 🌐 [Portfolio](https://ezedin.dev)
-- 📧 [Email](mailto:ezedinaliyi38@email.com)
+<!-- Animated Skills Section -->
+## 🚀 **Skills & Technologies**
 
-## 💡 Code Snippet
+<div align="center">
 
-/*
-=====================================================
- Node.js + Express + MongoDB Backend Starter (MERN)
-=====================================================
+<!-- Frontend Skills with Animation -->
+### **Frontend Development**
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</div>
 
-// Import required packages
-const express = require('express');   // Web framework for Node.js
-const mongoose = require('mongoose'); // MongoDB object modeling tool
+<!-- Backend Skills with Animation -->
+### **Backend Development**
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</div>
 
-// Initialize Express app
-const app = express();
+</div>
 
-// Middleware to parse JSON request bodies
-app.use(express.json());
+<br/>
 
-// Connect to MongoDB (local instance by default)
-mongoose.connect('mongodb://localhost:27017/mern_demo', {
-  useNewUrlParser: true,
-  useUnifiedTopology: true,
-})
-.then(() => console.log('✅ Connected to MongoDB'))
-.catch(err => console.error('❌ MongoDB connection error:', err));
+<!-- Animated About Me Section -->
+## 👨‍💻 **About Me**
 
-// Define a simple schema (structure of data)
-const ItemSchema = new mongoose.Schema({
-  name: String,
-  createdAt: { type: Date, default: Date.now }
-});
+<div align="center" style="background: linear-gradient(90deg, #0D1117 0%, #161B22 50%, #0D1117 100%); padding: 20px; border-radius: 10px; border: 1px solid #30363D;">
 
-// Create a model based on the schema
-const Item = mongoose.model('Item', ItemSchema);
+<p align="center">
+  <strong>🚀 Passionate Software Engineer & Full Stack Developer</strong><br/>
+  Transforming ideas into scalable digital solutions with clean code and modern technologies.
+</p>
 
-// Routes (API endpoints)
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 15px;">
+  
+  <div align="center" style="background: #161B22; padding: 10px 20px; border-radius: 8px; border: 1px solid #30363D;">
+    🔭 <strong>Currently:</strong> Building microservices architecture
+  </div>
+  
+  <div align="center" style="background: #161B22; padding: 10px 20px; border-radius: 8px; border: 1px solid #30363D;">
+    🌱 <strong>Learning:</strong> Kubernetes & Cloud Native
+  </div>
+  
+  <div align="center" style="background: #161B22; padding: 10px 20px; border-radius: 8px; border: 1px solid #30363D;">
+    ⚡ <strong>Fun Fact:</strong> Coffee → Code converter ☕
+  </div>
+  
+</div>
 
-// Root route
-app.get('/', (req, res) => {
-  res.send('Hello MERN Backend 👋');
-});
+</div>
 
-// Create a new item (POST request)
-app.post('/items', async (req, res) => {
-  const item = new Item({ name: req.body.name });
-  await item.save(); // Save to MongoDB
-  res.json(item);    // Return the saved item
-});
+<br/>
 
-// Get all items (GET request)
-app.get('/items', async (req, res) => {
-  const items = await Item.find(); // Fetch all items from DB
-  res.json(items);                 // Return as JSON
-});
+<!-- Animated Connect Section -->
+## 📫 **Let's Connect**
 
-// Start the server
-const PORT = process.env.PORT || 5000;
-app.listen(PORT, () => console.log(`🚀 Server running on port ${PORT}`));
+<div align="center">
 
-=====================================================
- End of MERN Backend Starter
-=====================================================
-*/
+<!-- Animated Connect Badges -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+  
+  <a href="https://linkedin.com/in/ezedin" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://twitter.com/ezedin" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" />
+  </a>
+  
+  <a href="https://github.com/ezedin56" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
+  </a>
+  
+  <a href="https://ezedin.dev" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000" alt="Portfolio" />
+  </a>
+  
+  <a href="mailto:ezedinaliyi38@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
+  </a>
+  
+</div>
 
+</div>
+
+<br/>
+
+<!-- Animated Footer -->
+<div align="center">
+
+<!-- Visitor Counter with Animation -->
+<div align="center" style="margin: 20px 0;">
+  <img src="https://profile-counter.glitch.me/ezedin56/count.svg" alt="Visitor Counter" />
+</div>
+
+<!-- Animated Quote -->
+<div align="center" style="background: linear-gradient(90deg, #00CED1, #00BFFF, #1E90FF); padding: 15px; border-radius: 8px; margin: 20px 0; animation: gradient 3s ease infinite;">
+  <p style="color: white; font-weight: bold; margin: 0;">
+    💻 "First, solve the problem. Then, write the code." – John Johnson
+  </p>
+</div>
+
+<!-- Last Updated -->
+<div align="center">
+  <sub>Last updated: <kbd>December 2024</kbd></sub>
+</div>
+
+</div>
+
+<style>
+  /* Animation Styles */
+  @keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0px); }
+  }
+  
+  @keyframes slideIn {
+    0% { transform: translateX(-100px); opacity: 0; }
+    100% { transform: translateX(0); opacity: 1; }
+  }
+  
+  @keyframes gradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+  
+  /* Hover Effects */
+  img:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+  }
+  
+  /* Badge Hover Effects */
+  .badge-hover:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(0, 206, 209, 0.3);
+    transition: all 0.3s ease;
+  }
+</style>
+
+<script>
+  // Add hover effects to badges
+  document.addEventListener('DOMContentLoaded', function() {
+    const badges = document.querySelectorAll('img[src*="badge"]');
+    badges.forEach(badge => {
+      badge.classList.add('badge-hover');
+    });
+  });
+</script>
